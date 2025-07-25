@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Maven.Master.Entities">
+      <class name="Maven.Master.Vehicles">
         <methods>
           <include name="setup"/>
           <include name="testEntities"/>
         </methods>
-      </class> <!-- Maven.Master.Entities -->
+      </class> <!-- Maven.Master.Vehicles -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

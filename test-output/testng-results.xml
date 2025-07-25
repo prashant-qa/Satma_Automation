@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-18T12:18:07 IST" name="Default suite" finished-at="2025-07-18T12:18:50 IST" duration-ms="43459">
+  <suite started-at="2025-07-25T13:22:41 IST" name="Default suite" finished-at="2025-07-25T13:23:09 IST" duration-ms="27919">
     <groups>
     </groups>
-    <test started-at="2025-07-18T12:18:07 IST" name="Default test" finished-at="2025-07-18T12:18:50 IST" duration-ms="43459">
-      <class name="Maven.Master.Entities">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Maven.Master.Entities@5e5d171f]" started-at="2025-07-18T12:18:07 IST" name="setup" finished-at="2025-07-18T12:18:15 IST" duration-ms="8644" status="PASS">
+    <test started-at="2025-07-25T13:22:41 IST" name="Default test" finished-at="2025-07-25T13:23:09 IST" duration-ms="27919">
+      <class name="Maven.Master.Vehicles">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Maven.Master.Vehicles@5e5d171f]" started-at="2025-07-25T13:22:41 IST" name="setup" finished-at="2025-07-25T13:22:49 IST" duration-ms="7947" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testEntities()[pri:0, instance:Maven.Master.Entities@5e5d171f]" started-at="2025-07-18T12:18:15 IST" name="testEntities" finished-at="2025-07-18T12:18:50 IST" duration-ms="34753" status="PASS">
+        <test-method signature="testEntities()[pri:0, instance:Maven.Master.Vehicles@5e5d171f]" started-at="2025-07-25T13:22:49 IST" name="testEntities" finished-at="2025-07-25T13:23:09 IST" duration-ms="19929" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEntities -->
-      </class> <!-- Maven.Master.Entities -->
+      </class> <!-- Maven.Master.Vehicles -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
