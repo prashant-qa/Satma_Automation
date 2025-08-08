@@ -37,7 +37,7 @@ public class Item {
         Thread.sleep(3000);
         driver.findElement(By.partialLinkText("Create New")).click();
         Thread.sleep(3000);
-        driver.findElement(By.id("name")).sendKeys("Item Test T3");
+        driver.findElement(By.id("name")).sendKeys("Item Test T4");
         driver.findElement(By.id("type")).click();
         driver.findElement(By.id("type")).sendKeys("Raw");
         driver.findElement(By.xpath("//*[@id=\"type-multiselect-option-78\"]/span")).click();
